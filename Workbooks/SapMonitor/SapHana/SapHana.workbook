@@ -1,5 +1,4 @@
-
-
+<!-- vim: syntax=json -->
 {
   "version": "Notebook/1.0",
   "items": [
